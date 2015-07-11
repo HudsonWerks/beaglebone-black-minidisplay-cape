@@ -1,4 +1,4 @@
-/*  GIMP header image file format (RGB): /Users/charleshamilton/Dropbox/cah/HudsonWerks/projects/clients/Books/Packt Publishing - BBB Cookbook/chapters/images/space/major_tom_lcd1.h  */
+/*  GIMP header image file format (RGB): major_tom_lcd1.h  */
 
 static unsigned int width = 128;
 static unsigned int height = 128;
