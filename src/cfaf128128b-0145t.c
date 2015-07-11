@@ -7,8 +7,9 @@
 #include <fcntl.h>
 #include <inttypes.h>
 #include "spi-driver.h"
-#include "cfaf128128b-0145t.h"
+#include "minidisplay.h"
 #include "major_tom_lcd2.h"
+//#include "major_tom_lcd1.h"
 
 #define pabort(s) {perror(s); abort();}
 
