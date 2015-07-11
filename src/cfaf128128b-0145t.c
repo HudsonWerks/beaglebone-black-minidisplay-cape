@@ -8,8 +8,8 @@
 #include <inttypes.h>
 #include "spi-driver.h"
 #include "minidisplay.h"
-#include "major_tom_lcd2.h"
-//#include "major_tom_lcd1.h"
+#include "major_tom_lcd1.h"
+//#include "major_tom_lcd2.h"
 
 #define pabort(s) {perror(s); abort();}
 
