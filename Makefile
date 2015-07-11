@@ -4,7 +4,7 @@ CC := c++
 SRCDIR := src
 BUILDDIR := build
 CFLAGS := -g -Wall -lm
-TARGET := minidisplay-test
+TARGET := minidisplay
 
 SRCEXT := c
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
