@@ -1,5 +1,7 @@
-#ifndef cfaf128128b_0145t_h
-#define cfaf128128b_0145t_h
+//#ifndef cfaf128128b_0145t_h
+//#define cfaf128128b_0145t_h
+#ifndef minidisplay_h
+#define minidisplay_h
 
 void init_tft(int deviceNum);
 int SPI3W_sendCommand(char cmd);
