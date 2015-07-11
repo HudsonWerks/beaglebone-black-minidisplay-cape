@@ -1,5 +1,3 @@
-//#ifndef cfaf128128b_0145t_h
-//#define cfaf128128b_0145t_h
 #ifndef minidisplay_h
 #define minidisplay_h
 
