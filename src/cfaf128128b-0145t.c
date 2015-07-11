@@ -8,7 +8,7 @@
 #include <inttypes.h>
 #include "spi-driver.h"
 #include "cfaf128128b-0145t.h"
-#include "boris-image.h"
+#include "major_tom_lcd2.h"
 
 #define pabort(s) {perror(s); abort();}
 
