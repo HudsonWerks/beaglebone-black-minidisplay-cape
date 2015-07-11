@@ -1,2 +1,2 @@
-# beaglebone-black-minidisplay-cape
-Sample code for testing the CircuitCo minidisplay cape for the Beaglebone Black.
+# Beaglebone Black Minidisplay Cape
+Sample code for testing the CircuitCo minidisplay LCD cape for the Beaglebone Black.
